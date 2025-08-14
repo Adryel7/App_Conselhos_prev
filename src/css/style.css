@@ -24,7 +24,7 @@ body{
     border-radius: 3%;
 }
 
-.titulo{
+#titulo{
     color: hsl(150, 100%, 66%);
     margin-top: 20px;
     font-size: 70%;
